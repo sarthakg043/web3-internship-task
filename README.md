@@ -23,7 +23,7 @@
 * Social media reach and activity: Follower counts, engagement metrics, and overall sentiment.
 * Grant programs and recipients: Supported projects and their impact on the ecosystem.
 
-### Beyond these suggestions, here are some specific data points you could add:
+### Beyond these suggestions, here are some specific data points which could be added:
 
 * Number of active smart contracts deployed on Polygon
 * Average transaction confirmation time and fees
