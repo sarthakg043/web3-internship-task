@@ -1,5 +1,10 @@
 # web3-internship-task
 
+The required task has been done.
+Other than that here are a few suggestions I would give to enhance the Json data file.
+
+You can add details of-
+
 ### Ecosystem Growth and Adoption:
 
 * Active dApps: Number of decentralized applications built on Polygon, categorized by sector (e.g., DeFi, NFTs, gaming, DAOs).
